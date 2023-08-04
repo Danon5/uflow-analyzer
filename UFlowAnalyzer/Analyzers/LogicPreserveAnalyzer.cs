@@ -11,7 +11,7 @@ namespace UFlowAnalyzer {
             AnalyzerIds.Warnings.LOGIC_PRESERVE,
             "Logic Not Preserved",
             "ILogic implementation missing [Preserve] attribute",
-            AnalyzerCategories.ISSUE,
+            AnalyzerCategories.USAGE,
             DiagnosticSeverity.Warning,
             true);
 
