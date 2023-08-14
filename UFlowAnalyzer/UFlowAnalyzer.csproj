@@ -105,8 +105,10 @@
     <Compile Include="AnalyzerCategories.cs" />
     <Compile Include="AnalyzerIds.cs" />
     <Compile Include="Analyzers\LogicPreserveAnalyzer.cs" />
+    <Compile Include="Analyzers\RpcMethodAnalyzer.cs" />
     <Compile Include="Analyzers\SerializerPreserveAnalyzer.cs" />
     <Compile Include="AnalyzerUtilities.cs" />
+    <Compile Include="BaseInterfaceAttributeAnalyzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
